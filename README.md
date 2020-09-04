@@ -1,7 +1,7 @@
-Heeeeey
+**_THERMAL VIDEO ANALISYS_** 
 
 This is a prototipe using a fluke thermal camera for a system to detect people with high temperature focused to prevent the coronavirus spread in a factory.
-Since the pandemic start a lot of developers are working on it. I still can´t upload the project but i´llbe happy to help if you want to develop something like this.
+Since the pandemic started, a lot of developers are working on it. I still can´t upload the project but i´ll be happy to help if you want to develop something like this.
 
 
 
