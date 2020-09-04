@@ -1,1 +1,2 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bYUCPlAK4d4/0.jpg)](https://youtu.be/bYUCPlAK4d4)
+Heeeeey
+![Alt Text](https://github.com/chelynx/Thermal-Video-COVID_project/blob/master/2020-03-26%2011-58-28.gif)
